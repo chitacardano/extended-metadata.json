@@ -1,79 +1,61 @@
 {
 
-  "info": {
-
-    "url_png_icon_64x64": "https://raw.githubusercontent.com/chitacardano/extended-metadata.json/main/chita.png",
-
-    "url_png_logo": "https://raw.githubusercontent.com/chitacardano/extended-metadata.json/main/icon.png",
-
-    "location": "Finland, Helsinki",
-
-    "social": {
-
-      "twitter_handle": "",
-
-      "telegram_handle": "",
-
-      "facebook_handle": "",
-
-      "youtube_handle": "",
-
-      "twitch_handle": "",
-
-      "discord_handle": "",
-
-      "github_handle": "chitacardano"
-
-    },
-
-    "company": {
-
-      "name": "",
-
-      "addr": "",
-
-      "city": "",
-
-      "country": "",
-
-      "company_id": "",
-
-      "vat_id": ""
-
-    },
-
-    "about": {
-
-      "me": "Chita(Cardano) - Together with Cardano Speed",
-
-      "company": ""
-
-    },
-
-    "rss": ""
-
-  },
-
-  "telegram-admin-handle": {
-
-    "0": ""
-
-  },
-
-  "my-pool-ids": {
-
-    "0": "81af953e3a24a23d6d84bc8da414c4956be9ccdf6e8645f461193fbb"
-
- 
-
-  },
-
-  "when-satured-then-recommend": {
-
-    "0": "81af953e3a24a23d6d84bc8da414c4956be9ccdf6e8645f461193fbb",
-
-  
-
-  }
-
+"info": {
+"url_png_icon_64x64": "https://raw.githubusercontent.com/chitacardano/extended-metadata.json/main/chita.png",
+"url_png_logo": "https://raw.githubusercontent.com/chitacardano/extended-metadata.json/main/chita.png",
+"location": "Finland, Helsinki",
+"social": {
+"twitter_handle": "",
+"telegram_handle": "",
+"facebook_handle": "",
+"youtube_handle": "",
+"twitch_handle": "",
+"discord_handle": "",
+"github_handle": ""
+},
+"company": {
+"name": "Chita Cardano",
+"addr": "",
+"city": "",
+"country": "",
+"company_id": "",
+"vat_id": ""
+},
+"about": {
+"me": "...",
+"server": "",
+"company": "..."
+},
+"rss": ""
+},
+"my-pool-ids": {
+"0": "81af953e3a24a23d6d84bc8da414c4956be9ccdf6e8645f461193fbb",
+"1": "81af953e3a24a23d6d84bc8da414c4956be9ccdf6e8645f461193fbb"
+},
+"when-satured-then-recommend": {
+"0": "81af953e3a24a23d6d84bc8da414c4956be9ccdf6e8645f461193fbb",
+"1": "81af953e3a24a23d6d84bc8da414c4956be9ccdf6e8645f461193fbb"
+},
+"telegram-admin-handle": {
+"0": "mnmnmnmnnmn"
+},
+"adapools_ext": {
+"prometheus": {
+"0": {
+"name": "relay 1 Fr",
+"type": "relay",
+"key": "example_get_own_on_adapools.org/connect"
+},
+"1": {
+"name": "relay 2 Fr",
+"type": "relay",
+"key": "example_get_own_on_adapools.org/connect"
+},
+"2": {
+"name": "block producer home",
+"type": "bp",
+"key": "example_get_own_on_adapools.org/connect"
+}
+}
+}
 }
