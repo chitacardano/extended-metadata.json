@@ -1,61 +1,22 @@
 {
-
 "info": {
-"url_png_icon_64x64": "https://raw.githubusercontent.com/chitacardano/extended-metadata.json/main/chita.png",
-"url_png_logo": "https://raw.githubusercontent.com/chitacardano/extended-metadata.json/main/chita.png",
-"location": "Finland, Helsinki",
+"url_png_icon_64x64": "https://raw.githubusercontent.com/chitacardano/extended-metadata.json/main/logo64_64.png",
+"url_png_logo": "https://raw.githubusercontent.com/chitacardano/extended-metadata.json/main/logo.png",
+"location": "Finland",
 "social": {
 "twitter_handle": "",
-"telegram_handle": "",
-"facebook_handle": "",
-"youtube_handle": "",
-"twitch_handle": "",
-"discord_handle": "",
-"github_handle": ""
-},
-"company": {
-"name": "Chita Cardano",
-"addr": "",
-"city": "",
-"country": "",
-"company_id": "",
-"vat_id": ""
+"telegram_handle": "chita_pool",
+"github_handle": "chitacardano"
 },
 "about": {
-"me": "...",
-"server": "",
-"company": "..."
-},
-"rss": ""
+"me": "My name is chita, I'm a single pool operator.",
+"server": "chita is a stakepool."
+}
 },
 "my-pool-ids": {
-"0": "81af953e3a24a23d6d84bc8da414c4956be9ccdf6e8645f461193fbb",
-"1": "81af953e3a24a23d6d84bc8da414c4956be9ccdf6e8645f461193fbb"
-},
-"when-satured-then-recommend": {
-"0": "81af953e3a24a23d6d84bc8da414c4956be9ccdf6e8645f461193fbb",
-"1": "81af953e3a24a23d6d84bc8da414c4956be9ccdf6e8645f461193fbb"
+"0": "81af953e3a24a23d6d84bc8da414c4956be9ccdf6e8645f461193fbb"
 },
 "telegram-admin-handle": {
-"0": "mnmnmnmnnmn"
-},
-"adapools_ext": {
-"prometheus": {
-"0": {
-"name": "relay 1 Fr",
-"type": "relay",
-"key": "example_get_own_on_adapools.org/connect"
-},
-"1": {
-"name": "relay 2 Fr",
-"type": "relay",
-"key": "example_get_own_on_adapools.org/connect"
-},
-"2": {
-"name": "block producer home",
-"type": "bp",
-"key": "example_get_own_on_adapools.org/connect"
-}
-}
+"0": "chitanetwork"
 }
 }
